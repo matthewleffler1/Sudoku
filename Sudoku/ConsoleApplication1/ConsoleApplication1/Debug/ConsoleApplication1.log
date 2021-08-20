@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\matth\Desktop\C++ Projects\Sudoku\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\matth\Desktop\C++ Projects\Sudoku\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\C++ Projects\Sudoku\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,21): warning C4018: '<': signed/unsigned mismatch
+  Sudoku.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\matth\Desktop\C++ Projects\Sudoku\ConsoleApplication1\Debug\ConsoleApplication1.exe

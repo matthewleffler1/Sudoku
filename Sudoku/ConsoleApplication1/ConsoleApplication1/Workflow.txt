@@ -1,0 +1,6 @@
+// 1.	Create Sudoku Board with uninitialized values
+// 1.5. Create function that checks if number is in a valid position
+2. Fill Sudoku Board with random numbers, make sure values are in valid positions
+//3. Find missing numbers in each square
+//4. Check to see if board is valid via backtracking
+//5. If board is valid, return original board and solution
